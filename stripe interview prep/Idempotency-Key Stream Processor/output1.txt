@@ -1,0 +1,6 @@
+ACCEPTED
+{"amt":10,"cur":"USD"}
+{"amt":20,"cur":"USD"}
+{}
+CONFLICTS
+a

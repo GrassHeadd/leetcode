@@ -1,0 +1,8 @@
+7
+a {"amt":10,"cur":"USD"}
+b {"amt":20,"cur":"USD"}
+a {"cur":"USD","amt":10}
+a {"amt":999,"cur":"USD"}
+c {}
+b {"amt":20,"cur":"USD"}
+c {}
